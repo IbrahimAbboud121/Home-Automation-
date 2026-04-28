@@ -3,17 +3,11 @@
 # 🏠 NEXUS HOME
 ### AI-Powered Smart Home System | ESP32 + Computer Vision + Hand Gesture Door Lock + Live Web Dashboard
 
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-[![Platform](https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
-[![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-MediaPipe-green?style=for-the-badge&logo=opencv)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
----
 
 ## 📺 Demo Video
 
-[![NEXUS HOME Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![NEXUS HOME Demo](https://img.youtube.com/vi/VbAP9pSBGEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=VbAP9pSBGEo)
 
 > *Click the thumbnail to watch the full demo on YouTube*
 
