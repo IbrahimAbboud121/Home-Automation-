@@ -18,6 +18,7 @@
 ## 📌 About
 
 Built a fully automated smart home system using ESP32 and computer vision — featuring real-time sensor alerts, hand gesture door unlocking, and a live web dashboard to control everything remotely.
+YT video:https://youtu.be/VbAP9pSBGEo
 
 ---
 
